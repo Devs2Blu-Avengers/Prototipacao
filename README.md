@@ -52,8 +52,9 @@ que gerência denúncias e solicitações de SOS quando o cidadão estiver em pe
 -Estilo visual atrativo, consistência entre os elementos da interface e layout intuitivo e organizado.
 
 # Documentação
-- Arquivo Swagger-Doc.JSON disponível em resources/static.
 
-- Arquivo do Insomnia para testar os endpoints da aplicação em localhost disponível em Documentation/Insomnia_Endpoints_localhost.json
+- Documentação swagger pode ser visualizada na url da Api Rest acrescentando o caminho /swagger-ui/index.html
+
+- [Arquivo Insomnia](https://github.com/Devs2Blu-Avengers/Saveblu-Api/blob/main/documentation/IncidenceController_Endpoints_Insomnia_2023-10-23.json)
 
  
