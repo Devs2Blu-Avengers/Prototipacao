@@ -1,7 +1,7 @@
 # Saveblu 
 
 Projeto desenvolvido como avaliação final do curso +Dev2Blu 2023. A Saveblu é uma aplicação
-que gerência denúncias e solicitações de SOS quando o cidadão estiver em perigo de acordo com a sua localização.
+que gerência ocorrências ambientais e solicitações de SOS quando o cidadão estiver em perigo de acordo com a sua localização.
 
 # <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma Logo" width="30" height="30"/> Figma
 
@@ -60,10 +60,3 @@ que gerência denúncias e solicitações de SOS quando o cidadão estiver em pe
 # Design de Interface do Usuário (UI):
 -Estilo visual atrativo, consistência entre os elementos da interface e layout intuitivo e organizado.
 
-# Documentação
-
-- Documentação swagger pode ser visualizada na url da Api Rest acrescentando o caminho /swagger-ui/index.html
-
-- [Arquivo Insomnia](https://github.com/Devs2Blu-Avengers/Saveblu-Api/blob/main/documentation/IncidenceController_Endpoints_Insomnia_2023-10-23.json)
-
- 
