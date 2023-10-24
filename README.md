@@ -57,6 +57,6 @@ que gerência ocorrências ambientais e solicitações de SOS quando o cidadão 
 # User-Flow: 
 ![Diagrama de fluxo de usuário](https://github.com/Devs2Blu-Avengers/Prototipacao/assets/99457651/0367e587-4d24-46d1-b18d-32b51104aa8f)
 
-# Design de Interface do Usuário (UI):
--Estilo visual atrativo, consistência entre os elementos da interface e layout intuitivo e organizado.
+Detalhes adicionais limitados pela plataforma onde o diagrama foi feito.
+
 
