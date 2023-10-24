@@ -3,6 +3,12 @@
 Projeto desenvolvido como avaliação final do curso +Dev2Blu 2023. A Saveblu é uma aplicação
 que gerência denúncias e solicitações de SOS quando o cidadão estiver em perigo de acordo com a sua localização.
 
+#Figma
+
+[Para ver uma simulação do aplicativo clique aqui](https://www.figma.com/proto/CEcNU5FwVZSpT18mN2P2OE/SAVEBLU?type=design&node-id=1-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
+
+[Para ver todas a telas do nosso aplicativo clique aqui](https://www.figma.com/file/CEcNU5FwVZSpT18mN2P2OE/SAVEBLU?type=design&node-id=0-1&mode=design)
+
 # Diagrama de Classes
 
 ![Diagrama de Classes](https://github.com/Devs2Blu-Avengers/Saveblu-Api/raw/main/documentation/Class%20Diagram.png)
