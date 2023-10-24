@@ -48,6 +48,9 @@ que gerência denúncias e solicitações de SOS quando o cidadão estiver em pe
 - Um usuário é automaticamente cadastrado ao se logar com o google.
 - A aplicação deve permitir filtrar os incidentes por categoria.
 
+# User-Flow: 
+![Diagrama de fluxo de usuário](https://github.com/Devs2Blu-Avengers/Prototipacao/assets/99457651/0367e587-4d24-46d1-b18d-32b51104aa8f)
+
 # Design de Interface do Usuário (UI):
 -Estilo visual atrativo, consistência entre os elementos da interface e layout intuitivo e organizado.
 
