@@ -1,6 +1,6 @@
 # Saveblu 
 
-Projeto desenvolvido como avaliação final do curso +Dev2Blu 2023. A Saveblu é uma aplicação que
+Projeto desenvolvido como avaliação final do curso +Dev2Blu 2023. A Saveblu é uma aplicação
 que gerência denúncias e solicitações de SOS quando o cidadão estiver em perigo de acordo com a sua localização.
 
 # Diagrama de Classes
