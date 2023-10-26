@@ -11,7 +11,7 @@ que gerência ocorrências ambientais e solicitações de SOS quando o cidadão 
 
 # Diagrama de Classes
 
-![Diagrama de Classes](https://github.com/Devs2Blu-Avengers/Saveblu-Api/raw/main/documentation/Class%20Diagram.png)
+![Diagrama de Classes](https://github.com/Devs2Blu-Avengers/Saveblu-Api/blob/dev/documentation/Class%20Diagram.png)
 
 # Diagrama ER
 
