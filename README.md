@@ -15,9 +15,7 @@ que gerência ocorrências ambientais e solicitações de SOS quando o cidadão 
 
 # Diagrama ER
 
-
-
-![Diagrama ER](https://github.com/Devs2Blu-Avengers/Saveblu-Api/raw/main/documentation/DiagramaER.png)
+![Diagrama ER](https://github.com/Devs2Blu-Avengers/Saveblu-Api/blob/dev/documentation/DiagramaER.png)
 
 # Requisitos Funcionais
 
